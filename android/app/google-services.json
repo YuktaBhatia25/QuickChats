@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "201599614693",
+    "project_id": "quickchats-652a8",
+    "storage_bucket": "quickchats-652a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201599614693:android:5b34e8e3e33b882c989e0c",
+        "android_client_info": {
+          "package_name": "com.quick_chats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201599614693-280du79uoa7mefqffhljihfro0kssloj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quick_chats",
+            "certificate_hash": "0de0c8929c6e0f47dd9f82a5c62dd83f4b9b5424"
+          }
+        },
+        {
+          "client_id": "201599614693-13st40qda6nr9p13g3n4fvhj420pjq78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrY-VCJM2pKUFHLgJnl9f3UFb21JSmG2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201599614693-13st40qda6nr9p13g3n4fvhj420pjq78.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "201599614693-kir8284f92tplapurfcuv368eth8b58c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.quick_chats"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
